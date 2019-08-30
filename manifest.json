@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Chrome插件demo",
 	"version": "1.0.0",
-	"description": "这是一个非常非常简单的Chrome插件示例，可以基于此进行业务开发",
+	"description": "这是一个非常简单的Chrome插件示例，可以基于此进行业务开发",
 	"author": "lijiayang",
 	"icons":
 	{
